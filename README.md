@@ -3,7 +3,9 @@
 Installation process>
 
 First of all install open cv
+
   sudo apt-get install libopencv-dev
+  
 And Cmake
   sudo apt-get install cmake
 To use the program in your computer
