@@ -20,8 +20,13 @@ To use the program in your computer
 Finally, build, test and package your software with Cmake
 
  $ cd webcam_capture 
+ 
  $ mkdir build 
+ 
  $ cd build 
+ 
  $ cmake .. 
+ 
  $ make 
+ 
  $ ./webcam_capture 
